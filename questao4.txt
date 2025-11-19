@@ -1,0 +1,2 @@
+Reposta:
+Serve para o controle de repetição, de condições e rastreio de valores durante loops aninhados.
